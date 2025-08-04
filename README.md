@@ -1,1 +1,2 @@
 my name is rohit kumar. this project is all about predicting whether it is a n online or non online order and comparing the accuracy of knn,logistic regresssion, svm , decision tree, random forest. and used linear regression to predict the rates coressponding to the names.
+and we get the highest accuracy in random forest which is 66.67%.
